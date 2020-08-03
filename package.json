@@ -1,0 +1,17 @@
+{
+  "name": "leitner_box_system_backend",
+  "version": "1.0.0",
+  "description": "The backend for a leitner box system app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leitner",
+    "box",
+    "system",
+    "learning"
+  ],
+  "author": "Nuno Santos",
+  "license": "ISC"
+}
